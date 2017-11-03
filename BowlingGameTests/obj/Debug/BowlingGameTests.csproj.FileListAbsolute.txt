@@ -1,7 +1,0 @@
-C:\Users\tuf69818\Dropbox\BowlingGameTests\bin\Debug\BowlingGameTests.dll
-C:\Users\tuf69818\Dropbox\BowlingGameTests\bin\Debug\BowlingGameTests.pdb
-C:\Users\tuf69818\Dropbox\BowlingGameTests\bin\Debug\Bowling_Game.dll
-C:\Users\tuf69818\Dropbox\BowlingGameTests\bin\Debug\Bowling_Game.pdb
-C:\Users\tuf69818\Dropbox\BowlingGameTests\obj\Debug\BowlingGameTests.csprojResolveAssemblyReference.cache
-C:\Users\tuf69818\Dropbox\BowlingGameTests\obj\Debug\BowlingGameTests.dll
-C:\Users\tuf69818\Dropbox\BowlingGameTests\obj\Debug\BowlingGameTests.pdb
