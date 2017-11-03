@@ -1,0 +1,15 @@
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\bin\Debug\BowlingGameTests.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\bin\Debug\BowlingGameTests.pdb
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\bin\Debug\Bowling_Game.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\bin\Debug\Bowling_Game.pdb
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\obj\Debug\BowlingGameTests.csprojResolveAssemblyReference.cache
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\obj\Debug\BowlingGameTests.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\BowlingGameTests\obj\Debug\BowlingGameTests.pdb
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\BowlingGameTests.dll
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\BowlingGameTests.pdb
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\Bowling_Game.dll
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\Bowling_Game.pdb
+C:\Users\tuf69818\Documents\BowlingGameTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\tuf69818\Documents\BowlingGameTests\obj\Debug\BowlingGameTests.dll
+C:\Users\tuf69818\Documents\BowlingGameTests\obj\Debug\BowlingGameTests.pdb

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling_Game", "Bowling_Game.csproj", "{D35D12F2-464D-4967-91EC-6233D548F1E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameTests", "..\BowlingGameTests\BowlingGameTests.csproj", "{E5348EE9-E9FB-40AF-A263-4D51429155E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D35D12F2-464D-4967-91EC-6233D548F1E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35D12F2-464D-4967-91EC-6233D548F1E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35D12F2-464D-4967-91EC-6233D548F1E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35D12F2-464D-4967-91EC-6233D548F1E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5348EE9-E9FB-40AF-A263-4D51429155E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5348EE9-E9FB-40AF-A263-4D51429155E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5348EE9-E9FB-40AF-A263-4D51429155E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5348EE9-E9FB-40AF-A263-4D51429155E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

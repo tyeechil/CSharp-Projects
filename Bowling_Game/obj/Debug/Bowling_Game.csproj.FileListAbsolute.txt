@@ -1,0 +1,10 @@
+c:\users\tuf69818\documents\visual studio 2012\Projects\Bowling_Game\bin\Debug\Bowling_Game.dll.config
+c:\users\tuf69818\documents\visual studio 2012\Projects\Bowling_Game\bin\Debug\Bowling_Game.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\Bowling_Game\bin\Debug\Bowling_Game.pdb
+c:\users\tuf69818\documents\visual studio 2012\Projects\Bowling_Game\obj\Debug\Bowling_Game.dll
+c:\users\tuf69818\documents\visual studio 2012\Projects\Bowling_Game\obj\Debug\Bowling_Game.pdb
+C:\Users\tuf69818\Dropbox\Bowling_Game\bin\Debug\Bowling_Game.dll.config
+C:\Users\tuf69818\Dropbox\Bowling_Game\bin\Debug\Bowling_Game.dll
+C:\Users\tuf69818\Dropbox\Bowling_Game\bin\Debug\Bowling_Game.pdb
+C:\Users\tuf69818\Dropbox\Bowling_Game\obj\Debug\Bowling_Game.dll
+C:\Users\tuf69818\Dropbox\Bowling_Game\obj\Debug\Bowling_Game.pdb
