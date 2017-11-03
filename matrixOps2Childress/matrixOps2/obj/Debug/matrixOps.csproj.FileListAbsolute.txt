@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.exe
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.exe
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.pdb
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.exe.config
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.exe
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.pdb
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.exe
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.pdb
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.csprojResolveAssemblyReference.cache
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.Form1.resources
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.Properties.Resources.resources
+C:\Users\tuf69818\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.csproj.GenerateResource.Cache

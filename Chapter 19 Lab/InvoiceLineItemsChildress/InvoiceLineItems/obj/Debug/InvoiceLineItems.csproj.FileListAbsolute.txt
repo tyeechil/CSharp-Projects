@@ -1,0 +1,33 @@
+c:\users\game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe.config
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks.mdf
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks_log.ldf
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.pdb
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csprojResolveAssemblyReference.cache
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.formMain.resources
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Properties.Resources.resources
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.GenerateResource.Cache
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.exe
+C:\Users\Game\documents\visual studio 2015\Projects\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.pdb
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe.config
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.exe
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.pdb
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks.mdf
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks_log.ldf
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.pdb
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csprojResolveAssemblyReference.cache
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.formMain.resources
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Properties.Resources.resources
+C:\Users\Ross\Downloads\Extra 19-2 InvoiceLineItems-20161113T214053Z\Extra 19-2 InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe.config
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.exe
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.pdb
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks.mdf
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\bin\Debug\MMABooks_log.ldf
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.exe
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\bin\Debug\InvoiceLineItems.pdb
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.formMain.resources
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.Properties.Resources.resources
+C:\Users\Administrator\Documents\19-2\19-2 - RyanRoss\InvoiceLineItems\InvoiceLineItems\obj\Debug\InvoiceLineItems.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.dll.config
+C:\Users\Administrator\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.dll
+C:\Users\Administrator\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.pdb
+C:\Users\Administrator\Dropbox\QALab3\QALab3\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Dropbox\QALab3\QALab3\obj\x86\Release\mir3FileBrowser.dll
+C:\Users\Administrator\Dropbox\QALab3\QALab3\obj\x86\Release\mir3FileBrowser.pdb
+C:\Users\Administrator\Dropbox\QALab3\QALab3\obj\x86\Release\QALab3.csprojResolveAssemblyReference.cache
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.dll.config
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.dll
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\bin\mir3FileBrowser.pdb
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\bin\Newtonsoft.Json.xml
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\obj\x86\Release\QALab3.csprojResolveAssemblyReference.cache
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\obj\x86\Release\mir3FileBrowser.dll
+C:\Users\TyeeChil\Dropbox\QALab3\QALab3\obj\x86\Release\mir3FileBrowser.pdb

@@ -1,0 +1,8 @@
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\bin\Debug\QALab2.exe.config
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\obj\Debug\QALab2.Properties.Resources.resources
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\obj\Debug\QALab2.StudentProfileProgram.resources
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\obj\Debug\QALab2.csproj.GenerateResource.Cache
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\bin\Debug\QALab2.exe
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\bin\Debug\QALab2.pdb
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\obj\Debug\QALab2.exe
+c:\users\tyeechil\documents\visual studio 2015\Projects\QALab2\obj\Debug\QALab2.pdb

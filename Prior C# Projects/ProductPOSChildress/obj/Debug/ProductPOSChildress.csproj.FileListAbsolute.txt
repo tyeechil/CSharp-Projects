@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\bin\Debug\ProductPOSChildress.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\bin\Debug\ProductPOSChildress.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\bin\Debug\ProductPOSChildress.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.frmMain.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.frmSearch.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.exe
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\bin\Debug\ProductDB.accdb
+c:\users\administrator\documents\visual studio 2015\Projects\ProductPOSChildress\obj\Debug\ProductPOSChildress.frmProduct.resources

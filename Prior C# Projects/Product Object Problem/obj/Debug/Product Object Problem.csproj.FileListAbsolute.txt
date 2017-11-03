@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\bin\Debug\Product Object Problem.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\obj\Debug\Product Object Problem.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\obj\Debug\Product_Object_Problem.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\obj\Debug\Product Object Problem.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\bin\Debug\Product Object Problem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\bin\Debug\Product Object Problem.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\obj\Debug\Product Object Problem.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Product Object Problem\obj\Debug\Product Object Problem.pdb

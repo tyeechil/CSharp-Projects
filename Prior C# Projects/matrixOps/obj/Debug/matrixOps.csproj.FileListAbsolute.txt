@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.exe
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\bin\Debug\matrixOps.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.Form1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.exe
+c:\users\administrator\documents\visual studio 2015\Projects\matrixOps\obj\Debug\matrixOps.pdb

@@ -1,0 +1,17 @@
+Z:\bin\mir3FileBrowser.dll
+Z:\bin\mir3FileBrowser.pdb
+Z:\obj\Debug\mir3FileBrowser.csprojResolveAssemblyReference.cache
+Z:\obj\Debug\mir3FileBrowser.dll
+Z:\obj\Debug\mir3FileBrowser.pdb
+O:\bin\mir3FileBrowser.dll
+O:\bin\mir3FileBrowser.pdb
+O:\obj\Debug\mir3FileBrowser.csprojResolveAssemblyReference.cache
+O:\obj\Debug\mir3FileBrowser.dll
+O:\obj\Debug\mir3FileBrowser.pdb
+Z:\mir3FileBrowser\obj\Debug\mir3FileBrowser.csprojResolveAssemblyReference.cache
+Z:\mir3FileBrowser\obj\Debug\mir3FileBrowser.dll
+O:\mir3FileBrowser\bin\mir3FileBrowser.dll
+O:\mir3FileBrowser\bin\mir3FileBrowser.pdb
+O:\mir3FileBrowser\obj\Debug\mir3FileBrowser.csprojResolveAssemblyReference.cache
+O:\mir3FileBrowser\obj\Debug\mir3FileBrowser.dll
+O:\mir3FileBrowser\obj\Debug\mir3FileBrowser.pdb

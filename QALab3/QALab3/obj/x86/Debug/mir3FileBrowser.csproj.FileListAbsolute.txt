@@ -1,0 +1,8 @@
+O:\mir3FileBrowser\bin\mir3FileBrowser.dll
+O:\mir3FileBrowser\bin\mir3FileBrowser.pdb
+O:\mir3FileBrowser\obj\x86\Debug\mir3FileBrowser.dll
+O:\mir3FileBrowser\obj\x86\Debug\mir3FileBrowser.pdb
+Z:\mir3FileBrowser\bin\mir3FileBrowser.dll
+Z:\mir3FileBrowser\bin\mir3FileBrowser.pdb
+Z:\mir3FileBrowser\obj\x86\Debug\mir3FileBrowser.dll
+Z:\mir3FileBrowser\obj\x86\Debug\mir3FileBrowser.pdb

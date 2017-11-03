@@ -1,0 +1,9 @@
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.exe.config
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.exe
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\bin\Debug\matrixOps.pdb
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\Matrix2.Form1.resources
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\Matrix2.Properties.Resources.resources
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\Matrix2.csproj.GenerateResource.Cache
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.exe
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\matrixOps.pdb
+C:\Users\Administrator\Dropbox\matrixOps2Childress\matrixOps2\obj\Debug\Matrix2.csprojResolveAssemblyReference.cache

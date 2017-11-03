@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://np-sisko.temple.edu/wsTempleLDAP/TempleLDAP.asmx?wsdl" docRef="https://np-sisko.temple.edu/wsTempleLDAP/TempleLDAP.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://np-sisko.temple.edu/wsTempleLDAP/TempleLDAP.asmx" xmlns:q1="https://templeldap.temple.edu/templeldap" binding="q1:TempleLDAPSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://np-sisko.temple.edu/wsTempleLDAP/TempleLDAP.asmx" xmlns:q2="https://templeldap.temple.edu/templeldap" binding="q2:TempleLDAPSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
